@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Olaide:Olaide@devconnector.wygvx.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "0a7a363a84ce0e609333",
+  "githubSecret": "e58338b16e01c803cee6c9b048a6928664715842"
+}
